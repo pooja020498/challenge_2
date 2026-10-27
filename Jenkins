@@ -26,12 +26,6 @@ pipeline {
                 echo 'This is Stage 4'
             }
         }
- 	stage('stage5') {
-            steps {
-                echo 'This is Stage 5'
-            }
-        }
-
     }
 
     post {
