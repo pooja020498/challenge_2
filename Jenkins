@@ -40,7 +40,7 @@ pipeline {
         }
 
         failure {
-            echo 'Pipeline failed'
+            echo 'Pipeline failed.. need to look into it again...'
         }
     }
 }
